@@ -3,10 +3,12 @@
   padding:0px;
 }
 
+
+//Тут нужно поправить 
+
 #octocat {
   display: block;
-  width:384px;
-  margin: 50px auto;
+
 }
 
 p {
